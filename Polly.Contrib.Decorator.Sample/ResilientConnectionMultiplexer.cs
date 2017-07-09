@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Threading.Tasks;
-using StackExchange.Redis;
-
-namespace Polly.Contrib.Refactoring.Sample
+﻿namespace Polly.Contrib.Decorator.Sample
 {
-    using Wrap;
+    using StackExchange.Redis;
+
     class ResilientConnectionMultiplexer : IConnectionMultiplexer
     {
         

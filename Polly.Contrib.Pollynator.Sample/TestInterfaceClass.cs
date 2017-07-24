@@ -1,6 +1,4 @@
-﻿
-
-namespace Polly.Contrib.Pollynator.Sample
+﻿namespace Polly.Contrib.Pollynator.Sample
 {
     using Polly.Wrap;
     using System;

@@ -1,4 +1,4 @@
-﻿namespace Polly.Contrib.Decorator.Sample
+﻿namespace Polly.Contrib.Pollynator.Sample
 {
     using System.Net.Http;
 
